@@ -69,7 +69,7 @@ export default function Homepage() {
     {/* Image (comes first on mobile) */}
     <div className="relative w-full h-64 sm:h-80 md:h-96 lg:h-[500px] grid grid-cols-1 md:grid-cols-2 order-1 lg:order-2">
       <Image
-        src="/sustainability.jpg"
+        src="/Sustainability.jpg"
         alt="Sustainability practices"
         fill
         className="object-cover"
